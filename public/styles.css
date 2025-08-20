@@ -84,7 +84,7 @@ body {
     transition: all 0.2s ease;
     border-radius: 8px;
     padding: 0.5rem;
-    margin: -0.5rem;
+    margin: 0;
 }
 
 .sidebar.collapsed .brand-logo:hover {
